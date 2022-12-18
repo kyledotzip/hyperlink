@@ -2,7 +2,7 @@
 2. run Start.bat
 3. enjoy
 
-Scrapes AHRI certificate downloads off website and hyperlinks to a spreadsheet. Made for dad.
-Uses selenium and openpyxl
+Scrapes AHRI certificate downloads off website and hyperlinks to a spreadsheet.
+Uses selenium and openpyxl. Made for dad.
 https://www.selenium.dev/
 https://openpyxl.readthedocs.io/
